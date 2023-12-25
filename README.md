@@ -5,19 +5,19 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <tr>
  <th>系級</th>
  <th><img src="working.jpeg"></th>
- <th><a href="">日文</a></th>
+ <th><a href="">學習履歷</a></th>
  <th><a href="https://chat.openai.com/">好友</a></th>
  </tr>
  <tr>
  <td><a href="https://hm.chu.edu.tw/index.php?Lang=zh-tw">餐旅系</a></td>
  <td><a href="https://www.youtube.com/watch?v=dK9rBfbUETw">看我</a></td>
- <td><a href="">巨量資料處理</a></td>
+ <td><a href="">日文</a></td>
  <td>潘 O 達</td>
  </tr>
  <tr>
  <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">餐旅系</a></td>
  <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">實習</a></td>
- <td><a href="">資料視覺化</a></td>
+ <td><a href="">韓文</a></td>
  <td>呂 O 庭</td>
  </tr>
  
